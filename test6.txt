@@ -2,5 +2,5 @@ test 6 Rose4
 no conflict
 
 line 4
-add a new in the 4th line
+added a new in the 4th line
 
