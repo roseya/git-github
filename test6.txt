@@ -1,6 +1,6 @@
 test 6 Rose4
 y conflict
-
+add 3
 line 4
 added a new in the 4th line
 add 6
