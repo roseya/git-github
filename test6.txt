@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test 6 DevRose
-=======
 test 6 update Dev1
->>>>>>> branch 'firstbranch' of https://github.com/roseya/git-github.git
