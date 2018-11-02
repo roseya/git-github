@@ -1,6 +1,6 @@
 test 6 Rose4
 no conflict
-
+line 3
 
 add a new in the 4th line
 
