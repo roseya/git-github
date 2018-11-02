@@ -1,2 +1,1 @@
-test 6 DevRose
 test 6 update Dev1
