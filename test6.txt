@@ -3,4 +3,4 @@ y conflict
 
 line 4
 added a new in the 4th line
-
+add 6
