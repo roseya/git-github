@@ -1,2 +1,3 @@
 test 6 Rose4
 no conflict
+add a new line in the 3rd line
