@@ -1,5 +1,5 @@
 test 6 Rose4
-no conflict
+y conflict
 
 line 4
 added a new in the 4th line
